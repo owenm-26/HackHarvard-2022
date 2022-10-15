@@ -1,12 +1,21 @@
 # HackHarvard-2022
 
-Problem: Students are so busy with their extra-curriculars that occasionally they are too overwhelmed to manage a planner week in and week out.
+## Problem: 
+Students are so busy with their extra-curriculars that occasionally they are too overwhelmed to manage a planner week in and week out.
 
-Solution: Simplify the life of users by putting the power to make events in the hands of individual organizations. Users join a club in the club search page and the planned events for that organization are automatically added to their calendar page.
+## Solution: 
+Simplify the life of users by putting the power to make events in the hands of individual organizations. Users join a club in the club search page and the planned events for that organization are automatically added to their calendar page.
 
-Features:
+## Features:
 - User Authentication
 - Calendar Filter
 - Club Finder 
 - My Clubs Page
 - Profile 
+
+
+Authors:
+- Josh Mayer
+- Adam Tan
+- Quang Nguyen
+- Owen Mariani
