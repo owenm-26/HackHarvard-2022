@@ -8,13 +8,12 @@ import {
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyBWim5uN7CoDXtSZWhe9alV5uTq0GGSeLA",
-    authDomain: "hackharvard2022.firebaseapp.com",
-    projectId: "hackharvard2022",
-    storageBucket: "hackharvard2022.appspot.com",
-    messagingSenderId: "781191323173",
-    appId: "1:781191323173:web:bfad6ca77928a0ffa529cc",
-    measurementId: "G-9X5116P1VY"
+  apiKey: "AIzaSyDMAZfwZchgsDKCKXWXpXeVf5buEQ9Phe4",
+  authDomain: "hackharvard-2022.firebaseapp.com",
+  projectId: "hackharvard-2022",
+  storageBucket: "hackharvard-2022.appspot.com",
+  messagingSenderId: "214820148241",
+  appId: "1:214820148241:web:8bad29076e4b34261c4db0"
 };
 
 //initialize firebase app
