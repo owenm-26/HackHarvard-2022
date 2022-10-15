@@ -13,6 +13,12 @@ Simplify the life of users by putting the power to make events in the hands of i
 - My Clubs Page
 - Profile 
 
+![Calendar Page Screenshot](https://myoctocat.com/assets/images/base-octocat.svg)
+####### Calendar Page
+
+![Login Page Screenshot](https://myoctocat.com/assets/images/base-octocat.svg)
+####### Login Page
+
 
 Authors:
 - Josh Mayer
