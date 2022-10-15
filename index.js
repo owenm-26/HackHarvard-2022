@@ -1,8 +1,5 @@
 import { initializeApp } from 'firebase/app'
 import {
-    getFirestore, collection, getDocs
-} from 'firebase/firestore'
-import {
     getAuth,
     createUserWithEmailAndPassword,
     signOut,
@@ -24,19 +21,8 @@ const firebaseConfig = {
 initializeApp(firebaseConfig)
 
 //initialize services
-const db = getFirestore()
 const auth = getAuth()
 
-//collection ref
-const colref = collection(db, 'user')
-
-//get collection data
-getDocs(colref)
-    .then((snapshot) => {
-        console.log(snapshot.docs)
-    })
-
-//sign up users
 // signing users up
 const signupForm = document.querySelector('.signup')
 signupForm.addEventListener('submit', (e) => {
